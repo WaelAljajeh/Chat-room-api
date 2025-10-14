@@ -1,0 +1,15 @@
+# Visual Studio temporary files
+.vs/
+bin/
+obj/
+publish/
+
+# User-specific files
+*.user
+*.suo
+*.ncb
+*.sdf
+*.cache
+
+# Other files you don’t want to track
+*.log
